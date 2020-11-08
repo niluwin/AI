@@ -5,6 +5,9 @@ __pycache__/
 
 # C extensions
 *.so
+01_Basics/Simplilearn_DataScienceWithPython/Downloaded/
+01_Basics/Simplilearn_DataScienceWithPython/.vscode/
+*.zip
 
 # Distribution / packaging
 .Python
