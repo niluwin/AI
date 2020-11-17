@@ -7,6 +7,7 @@ __pycache__/
 *.so
 01_Basics/Simplilearn_DataScienceWithPython/Downloaded/
 01_Basics/Simplilearn_DataScienceWithPython/.vscode/
+01_Basics/Introduction-to-Data-Science-in-python-master/
 *.zip
 
 # Distribution / packaging
